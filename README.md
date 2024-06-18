@@ -53,9 +53,6 @@ To run this project locally, follow these steps:
 2. **Install all the files in the repository:**
    - Ensure all files from the repository are installed in your local server's document root.
 
-3. **Open the website:**
-   - Navigate to `http://localhost/red-ecommerce-store` in your web browser.
-
 ## Photos
 
 Here are some screenshots of the website:
