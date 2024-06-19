@@ -57,6 +57,9 @@ To run this project locally, follow these steps:
 
 Here are some screenshots of the website:
 
+![Login](Screenshots/login.png)
+*Login Page*
+
 ![Home Page](Screenshots/Home.png)
 *Home Page*
 
